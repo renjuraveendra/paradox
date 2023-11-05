@@ -5,7 +5,16 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer__about">
                         <div class="footer__logo">
-                            <a href="#"><img src="img/paradox-logo.png" alt=""></a>
+                            <a href="#">
+                            <?php
+                                $logo = get_field('logo', 'option');
+                                if($logo): 
+                                ?>
+                                    <img src="<?php echo($logo);?>" alt="Site Logo">
+                                <?php
+                                endif;
+                            ?>
+                            </a>
                         </div>
                         <p>The customer is at the heart of our unique business model, which includes design.</p>
                         <a href="#"><img src="img/payment.png" alt=""></a>
@@ -14,23 +23,33 @@
                 <div class="col-lg-2 offset-lg-1 col-md-3 col-sm-6">
                     <div class="footer__widget">
                         <h6>Lorem</h6>
-                        <ul>
+                        <!-- <ul>
                             <li><a href="#">Lorem ipsum</a></li>
                             <li><a href="#">Lorem ipsum</a></li>
                             <li><a href="#">Lorem ipsum</a></li>
                             <li><a href="#">Lorem ipsum</a></li>
-                        </ul>
+                        </ul> -->
+                        <?php
+                        wp_nav_menu(array(
+                            "theme_location" => "theme_footer_menu_one",
+                        ));
+                        ?>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="footer__widget">
                         <h6>Lorem</h6>
-                        <ul>
+                        <!-- <ul>
                             <li><a href="#">Lorem ipsum</a></li>
                             <li><a href="#">Lorem ipsum</a></li>
                             <li><a href="#">Lorem ipsum</a></li>
                             <li><a href="#">Lorem ipsum</a></li>
-                        </ul>
+                        </ul> -->
+                        <?php
+                        wp_nav_menu(array(
+                            "theme_location" => "theme_footer_menu_two",
+                        ));
+                        ?>
                     </div>
                 </div>
                 <div class="col-lg-3 offset-lg-1 col-md-6 col-sm-6">

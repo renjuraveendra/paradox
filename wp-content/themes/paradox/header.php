@@ -50,9 +50,9 @@
             </div> -->
         </div>
         <div class="offcanvas__nav__option">
-            <a href="#" class="search-switch"><img src="img/icon/search.png" alt=""></a>
-            <a href="#"><img src="img/icon/heart.png" alt=""></a>
-            <a href="./shopping-cart.html"><img src="img/icon/cart.png" alt=""> <span>0</span></a>
+            <a href="#" class="search-switch"><img src="<?php bloginfo('template_url'); ?>/assets/img/icon/search.png" alt="search-img"></a>
+            <a href="#"><img src="<?php bloginfo('template_url'); ?>/assets/img/icon/heart.png" alt=""></a>
+            <a href="./shopping-cart.html"><img src=<?php get_template_directory_uri().'/assets/img/icon/cart.png' ?>> <span>0</span></a>
             <div class="price">₹2000</div>
         </div>
         <div id="mobile-menu-wrap"></div>
@@ -109,27 +109,37 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
-                    <nav class="header__menu mobile-menu">
-                        <!-- <ul>
+                    <!-- <nav class="header__menu mobile-menu">
+                        <ul>
                             <li class="active"><a href="./index.html">Home</a></li>
                             <li><a href="./shop.html">Shop</a></li>
                             <li><a href="./about.html">About Us</a></li>
                             <li><a href="./blog.html">Blog</a></li>
                             <li><a href="./contact.html">Contacts</a></li>
-                        </ul> -->
-                        <?php
+                        </ul>
                             wp_nav_menu( array(
                                 'theme_location' => 'top-menu',
                                 'container' => false
                             ));
-                        ?>
-                    </nav>
+                    </nav> -->
+                    <?php 
+
+                        wp_nav_menu(array(
+                            "theme_location" => "theme_header_menu",
+                            "container" => "nav",
+                            "container_class" => "header__menu mobile-menu"
+                        ));
+
+                    ?>
                 </div>
                 <div class="col-lg-3 col-md-3">
                     <div class="header__nav__option">
-                        <a href="#" class="search-switch"><img src="img/icon/search.png" alt=""></a>
-                        <a href="#"><img src="img/icon/heart.png" alt=""></a>
-                        <a href="./shopping-cart.html"><img src="img/icon/cart.png" alt=""> <span>0</span></a>
+                        <a href="#" class="search-switch"><img src="<?php bloginfo('template_url'); ?>/assets/img/icon/search.png" alt="search-img"></a>
+                        <a href="#"><img src="<?php bloginfo('template_url'); ?>/assets/img/icon/heart.png" alt=""></a>
+                        <a href="./shopping-cart.html">
+                        <img src="<?php bloginfo('template_url'); ?>/assets/img/icon/cart.png" alt=""> 
+                            <!-- <img src="img/icon/cart.png" alt="">  -->
+                            <span>0</span></a>
                         <div class="price">₹2000</div>
                     </div>
                 </div>

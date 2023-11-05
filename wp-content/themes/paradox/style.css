@@ -6,3 +6,17 @@ Description: This is a simple ecommerce site
 Author URL: https://renjuraveendran-portfolio.netlify.app
 Version: 1.0
 */
+
+
+
+.woocommerce-notices-wrapper {
+    display: inline-block !important;
+}
+
+.products {
+    width: 100%;
+}
+
+.woocommerce .woocommerce-result-count {
+    margin-bottom: 45px !important;
+}

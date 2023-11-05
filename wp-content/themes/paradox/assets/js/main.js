@@ -1,10 +1,7 @@
 /*  ---------------------------------------------------
-    Template Name: Male Fashion
-    Description: Male Fashion - ecommerce teplate
-    Author: Colorib
-    Author URI: https://www.colorib.com/
+    Template Name: Paradox
+    Description: Paradox - Online Ecommerce Store
     Version: 1.0
-    Created: Colorib
 ---------------------------------------------------------  */
 
 'use strict';

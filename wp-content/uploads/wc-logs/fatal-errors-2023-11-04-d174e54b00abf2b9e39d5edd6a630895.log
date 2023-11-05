@@ -1,0 +1,204 @@
+2023-11-04T17:15:21+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 55
+
+2023-11-04T17:17:53+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 55
+
+2023-11-04T17:17:53+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 55
+
+2023-11-04T17:19:14+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 55
+
+2023-11-04T17:19:36+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 55
+
+2023-11-04T17:20:39+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 55
+
+2023-11-04T17:21:06+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 55
+
+2023-11-04T17:21:41+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 55
+
+2023-11-04T17:22:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 55
+
+2023-11-04T17:22:48+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:137
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 137
+
+2023-11-04T17:23:11+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:137
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 137
+
+2023-11-04T17:23:32+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:137
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 137
+
+2023-11-04T17:24:57+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 55
+
+2023-11-04T17:29:18+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 55
+
+2023-11-04T17:31:43+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:137
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 137
+
+2023-11-04T17:33:14+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 55
+
+2023-11-04T17:34:56+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\paradox\wp-includes\template.php(785): require_once()
+#1 C:\xampp\htdocs\paradox\wp-includes\template.php(720): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\paradox\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\paradox\wp-content\themes\paradox\front-page.php(1): get_header()
+#4 C:\xampp\htdocs\paradox\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\paradox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\paradox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\paradox\wp-content\themes\paradox\header.php on line 55
+
